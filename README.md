@@ -1,4 +1,4 @@
-# Movie-Time-Android-With-Kotlin
-Nama  : Desyra Ardiani <br>
-NIM   : F1D018012 <br>
+# AndroidKotlin
+Nama  : Ida Ayu Vigi Meidhyana Putri <br>
+NIM   : F1D018078 <br>
 Kelas : B <br>
